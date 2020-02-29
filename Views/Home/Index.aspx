@@ -4,11 +4,15 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
+<<<<<<< HEAD
 <link href="../../Content/Site.css" rel="stylesheet" type="text/css" />
+=======
+>>>>>>> 68ea56b86c610df96b25dc41701374ca429f6f27
     <title>Index</title>
 </head>
 <body>
     <div>
+<<<<<<< HEAD
         <h1> Opciones Video</h1>
         <br />
         <a href="/Video/Index">Ver Videos</a>
@@ -21,6 +25,9 @@
           <br />
             <br />
         <a href="/Video/Eliminar">Eliminar</a>
+=======
+        <h1> Bienvenido        </h1>
+>>>>>>> 68ea56b86c610df96b25dc41701374ca429f6f27
     </div>
 </body>
 </html>

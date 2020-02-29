@@ -3,7 +3,14 @@ C:\Users\itzaeitzayana\OneDrive\Semestre Enero Junio 2020\Desarrollo de Software
 C:\Users\itzaeitzayana\OneDrive\Semestre Enero Junio 2020\Desarrollo de Software I\MvcPlantilla\obj\Debug\MvcPlantilla.csprojResolveAssemblyReference.cache
 C:\Users\itzaeitzayana\OneDrive\Semestre Enero Junio 2020\Desarrollo de Software I\MvcPlantilla\obj\Debug\MvcPlantilla.dll
 C:\Users\itzaeitzayana\OneDrive\Semestre Enero Junio 2020\Desarrollo de Software I\MvcPlantilla\obj\Debug\MvcPlantilla.pdb
+<<<<<<< HEAD
 C:\Users\Dell\Desktop\MVCPlantilla\bin\MvcPlantilla.dll
 C:\Users\Dell\Desktop\MVCPlantilla\bin\MvcPlantilla.pdb
 C:\Users\Dell\Desktop\MVCPlantilla\obj\Debug\MvcPlantilla.dll
 C:\Users\Dell\Desktop\MVCPlantilla\obj\Debug\MvcPlantilla.pdb
+=======
+C:\Users\Sala\Desktop\MVCPlantilla\bin\MvcPlantilla.dll
+C:\Users\Sala\Desktop\MVCPlantilla\bin\MvcPlantilla.pdb
+C:\Users\Sala\Desktop\MVCPlantilla\obj\Debug\MvcPlantilla.dll
+C:\Users\Sala\Desktop\MVCPlantilla\obj\Debug\MvcPlantilla.pdb
+>>>>>>> 68ea56b86c610df96b25dc41701374ca429f6f27
