@@ -26,3 +26,30 @@
 {
     display: none;
 }
+
+fieldset label
+{
+    color:Blue;
+    display:block;
+   
+    }
+a:link 
+{
+   font-size:20px;
+  color:#107;
+    }
+a:visited 
+{
+    font-size:20px;
+  color:#104;
+    }
+a:active 
+{
+    font-size:20px;
+  color:#101;
+    }
+a:hover 
+{
+   font-size:20px;
+  color:#100;
+    }
