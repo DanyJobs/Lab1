@@ -35,7 +35,7 @@ namespace MvcPlantilla.Controllers
         }
 
 
-
+        // POST
         [HttpPost]
         public ActionResult InsertarVideo(int idVideo,
             string titulo,
