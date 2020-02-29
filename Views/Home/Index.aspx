@@ -13,10 +13,13 @@
         <br />
         <a href="/Video/Index">Ver Videos</a>
           <br />
+            <br />
         <a href="/Video/Agregar" >Agregar Video</a>
           <br />
+            <br />
         <a href="/Video/Modificar">Modificar</a>
           <br />
+            <br />
         <a href="/Video/Eliminar">Eliminar</a>
     </div>
 </body>
